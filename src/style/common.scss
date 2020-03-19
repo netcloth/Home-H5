@@ -1,0 +1,24 @@
+//布局相关
+.clearfix {
+    &::after {
+        content:''; 
+        display:block; 
+        clear:both; 
+    }
+    zoom:1;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right
+}
+
+$global_margin : 16px;
+$front_color:#ffffff;
+$back_color:#e0e0e0;
+$back_dark_color:rgb(42,48,68);
+$grey_color:#a0a0a0;
+$up_color:rgb(105,185,19);
+$down_color:rgb(220,50,14);
+$high_light_color:#ffa000;
