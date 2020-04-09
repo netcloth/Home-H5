@@ -7,6 +7,10 @@ export const m = {
             ["非小号","url(/static/feixiaohao.png)","https://feixiaohao.com"],
             ["金财快讯","url(/static/jinse_kuaixun.png)","https://m.jinse.com/lives"],
         ],
+        [
+            ["NCH区块浏览器","url(/static/explorer.png)","https://explorer.netcloth.org"],
+            ["PocketEX行情 (开发中)","url(/static/market.png)","http://www.bxiaozhan.com"],
+        ],
     ],
 }
   
