@@ -10,6 +10,7 @@ export const m = {
         [
             ["NCH区块浏览器","url(/static/explorer.png)","https://explorer.netcloth.org"],
             ["PocketEX行情 (开发中)","url(/static/market.png)","http://www.bxiaozhan.com"],
+            ["PocketEX行情 (开发中)","url(/static/tan.png)","https://www.ccvalue.cn/"],
         ],
     ],
 }
